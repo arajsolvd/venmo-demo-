@@ -1,6 +1,8 @@
 # venmo-demo
 
-A Python AWS CDK project scaffold for `venmo-demo`.
+A Python AWS CDK app scaffold for a Venmo-style payments demo, built to show a serverless backend design.
+
+Repository: https://github.com/arajsolvd/venmo-demo-.git
 
 ## Setup
 
